@@ -1,0 +1,55 @@
+{
+  "cars": [
+    {
+      "id": 1,
+      "SourceSystem": "SourceSystem",
+      "CounterParty": "CounterParty",
+      "DealDate": "DealDate",
+      "ValueDate": "ValueDate",
+      "DealingPosition": "DealingPosition",
+      "PrimaryCurrency": "PrimaryCurrency",
+      "PAmount": "PAmount",
+      "SecondaryCurrency": "SecondaryCurrency",
+      "SAmount": "SAmount",
+      "SpotRate": "SpotRate",
+      "RateSense": "RateSense",
+      "updated_at": "2018-07-27 07:08:31"
+    }
+  ],
+  "FX": [
+    {
+      "id": 1,
+      "make": "Toyota",
+      "model": "Tacoma",
+      "color": "Blue",
+      "year": "2016",
+      "updated_at": "2018-07-27 07:08:31"
+    },
+    {
+      "id": 2,
+      "make": "Mazda",
+      "model": "RX-7",
+      "color": "Red",
+      "year": "2018",
+      "updated_at": "2018-07-27 07:08:31"
+    }
+  ],
+  "deals": [
+    {
+      "id": 1,
+      "make": "Toyota",
+      "model": "Tacoma",
+      "color": "Blue",
+      "year": "2016",
+      "updated_at": "2018-07-27 07:08:31"
+    },
+    {
+      "id": 2,
+      "make": "Mazda",
+      "model": "RX-7",
+      "color": "Red",
+      "year": "2018",
+      "updated_at": "2018-07-27 07:08:31"
+    }
+  ]
+}

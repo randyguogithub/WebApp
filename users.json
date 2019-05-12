@@ -1,0 +1,10 @@
+{
+	"users": [
+		{
+			"id": 1, "first_name": "Allen", "last_name": "Xiao", "full_name": "Allen Xiao", "email": "allenxiao@test.com", "password": "1234"
+		},
+		{
+			"id": 2, "first_name": "Randy", "last_name": "Guo", "full_name": "Randy Guoo", "email": "randyguoo@test.com", "password": "1234"
+		}
+	]
+}
